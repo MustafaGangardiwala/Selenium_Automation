@@ -449,20 +449,9 @@ Test Case 23: Verify address details in checkout page
 
 <details>
 <summary>
-Test Case 2: Login User with correct email and password
+Test Case 24: Download Invoice after purchase order
 </summary>
 
-1. Launch browser
-2. Navigate to url 'http://automationexercise.com'
-3. Verify that home page is visible successfully
-4. Click on 'Signup / Login' button
-5. Verify 'Login to your account' is visible
-6. Enter correct email address and password
-7. Click 'login' button
-8. Verify that 'Logged in as username' is visible
-
-</details>
-✅ Test Case 24: Download Invoice after purchase order
 1. Launch browser
 2. Navigate to url 'http://automationexercise.com'
 3. Verify that home page is visible successfull
@@ -485,6 +474,9 @@ Test Case 2: Login User with correct email and password
 20. Click 'Continue' button
 21. Click 'Delete Account' button
 22. Verify 'ACCOUNT DELETED!' and click 'Continue' button
+
+</details>
+
 
 <details>
 <summary>
